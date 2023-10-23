@@ -1,7 +1,7 @@
 <template>
     <header>
         <h1 class="header">
-            Componente Header
+            Componente Teste
         </h1>
     </header>
 </template>
